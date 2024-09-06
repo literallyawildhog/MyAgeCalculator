@@ -31,7 +31,7 @@
    - You can configure the Python environment by going to `Tools` > `Options` > `Python Environments`.
 
 4. **Run the script**:
-   - Open the `my_age_calculator.py` file in Visual Studio.
+   - Open the `main.py` file in Visual Studio.
    - Press `F5` or click on the `Start` button to run the script.
 
 ### Usage
