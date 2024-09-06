@@ -13,7 +13,7 @@
 ### Prerequisites
 
 - **Visual Studio** with Python support installed.
-- Python
+- Python 3.9
 
 ### Installation
 
